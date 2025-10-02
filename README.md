@@ -1,6 +1,7 @@
 # 🎨 GitHub Heatmap Art - CHROME
 
 Create the word "CHROME" or any other word or art that you would like on your GitHub contribution heatmap using backdated commits.
+## check my 2024 heatmap
 
 ![Example Result](image.png)
 
@@ -27,7 +28,7 @@ git push origin main
 
 ## ⚙️ How It Works
 
-1. Script creates 200+ commits backdated to 2024
+1. Script creates 200+ commits backdated to 2024 or any other date you would like you could customize it however you would like to in order to write a word or draw pixel art
 2. Each commit adds a comment to `index.html`
 3. GitHub shows green squares on those dates
 4. Pattern spells "CHROME" across your contribution graph
