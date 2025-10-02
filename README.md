@@ -11,10 +11,14 @@ Create the word "CHROME" or any other word or art that you would like on your Gi
 # 1. Configure Git with your GitHub email
 git config user.email "your-github-email@example.com"
 
-# 2. Run the script
+# 2.customize your dates
+change the dates in chrome-dates.txt to the dates you would like to use in the same format that i used in that file(i think that it's the easiest)
+then run parse_dates.ps1 and extract the a dates in the format that git accepts and past them in the file you desire ex. make_commits.ps1
+
+# 3. Run the script
 .\make_commits.ps1
 
-# 3. Push to GitHub
+# 4. Push to GitHub
 git push origin main
 ```
 
