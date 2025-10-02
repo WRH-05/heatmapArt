@@ -1,6 +1,6 @@
 # 🎨 GitHub Heatmap Art - CHROME
 
-Create the word "CHROME" on your GitHub contribution heatmap using backdated commits.
+Create the word "CHROME" or any other word or art that you would like on your GitHub contribution heatmap using backdated commits.
 
 ![Example Result](image.png)
 
